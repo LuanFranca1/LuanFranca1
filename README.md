@@ -1,5 +1,5 @@
 Hey!Eu sou Luan França!
-- 🔭 Estudante de ciêncida da computação(UNICAP)
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas(UNIT)
 - 🌱 Estudando java/js/html/css
 - 📫 Email:francajose813@gmail.com
 - 😊 Prounomus:Ele/Dele
